@@ -7,4 +7,4 @@ Prompt engineering for UXRs
 More information is comming - stay tuned!
 
 
-example of a [prompt link](https://gruxie.github.io//uxr_pe/main_seq.txt) that should render a page in a new tab?  We'll see.
+example of a [prompt link](https://gruxie.github.io/uxr_pe/main_seq.txt) that should render a page in a new tab?  We'll see.
